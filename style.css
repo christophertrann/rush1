@@ -1,0 +1,1211 @@
+.desktop {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.desktop .div {
+  background-color: #ffffff;
+  width: 1440px;
+  height: 1762px;
+  position: relative;
+}
+
+.desktop .google {
+  position: absolute;
+  width: 46px;
+  height: 40px;
+  top: 1638px;
+  left: 1151px;
+  object-fit: cover;
+}
+
+.desktop .pinterest {
+  position: absolute;
+  width: 40px;
+  height: 40px;
+  top: 1638px;
+  left: 1108px;
+  object-fit: cover;
+}
+
+.desktop .twitter {
+  position: absolute;
+  width: 46px;
+  height: 40px;
+  top: 1638px;
+  left: 1059px;
+  object-fit: cover;
+}
+
+.desktop .facebook {
+  position: absolute;
+  width: 40px;
+  height: 40px;
+  top: 1638px;
+  left: 1016px;
+  object-fit: cover;
+}
+
+.desktop .email {
+  position: absolute;
+  width: 40px;
+  height: 40px;
+  top: 1638px;
+  left: 973px;
+  object-fit: cover;
+}
+
+.desktop .rss {
+  position: absolute;
+  width: 40px;
+  height: 40px;
+  top: 1638px;
+  left: 930px;
+  object-fit: cover;
+}
+
+.desktop .text1 {
+  position: absolute;
+  top: 1679px;
+  left: 265px;
+  font-family: "Droid Sans-Regular", Helvetica;
+  font-weight: 400;
+  color: #868686;
+  font-size: 11px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.desktop .text2 {
+  position: absolute;
+  top: 1650px;
+  left: 452px;
+  font-family: "Droid Sans-Regular", Helvetica;
+  font-weight: 400;
+  color: #868686;
+  font-size: 11px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.desktop .text3 {
+  width: 4px;
+  top: 1674px;
+  left: 439px;
+  position: absolute;
+  font-family: "Droid Sans-Regular", Helvetica;
+  font-weight: 400;
+  color: #868686;
+  font-size: 11px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.desktop .text4 {
+  position: absolute;
+  top: 1650px;
+  left: 358px;
+  font-family: "Droid Sans-Regular", Helvetica;
+  font-weight: 400;
+  color: #868686;
+  font-size: 11px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.desktop .text5 {
+  top: 1650px;
+  left: 348px;
+  white-space: nowrap;
+  position: absolute;
+  font-family: "Droid Sans-Regular", Helvetica;
+  font-weight: 400;
+  color: #868686;
+  font-size: 11px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.desktop .text6 {
+  position: absolute;
+  top: 1650px;
+  left: 317px;
+  font-family: "Droid Sans-Regular", Helvetica;
+  font-weight: 400;
+  color: #868686;
+  font-size: 11px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.desktop .text7 {
+  top: 1650px;
+  left: 304px;
+  white-space: nowrap;
+  position: absolute;
+  font-family: "Droid Sans-Regular", Helvetica;
+  font-weight: 400;
+  color: #868686;
+  font-size: 11px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.desktop .text8 {
+  position: absolute;
+  top: 1650px;
+  left: 265px;
+  font-family: "Droid Sans-Regular", Helvetica;
+  font-weight: 400;
+  color: #868686;
+  font-size: 11px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.desktop .overlap {
+  position: absolute;
+  width: 964px;
+  height: 221px;
+  top: 1386px;
+  left: 245px;
+}
+
+.desktop .grille {
+  width: 355px;
+  height: 221px;
+  left: 609px;
+  position: absolute;
+  top: 0;
+  object-fit: cover;
+}
+
+.desktop .img {
+  width: 355px;
+  height: 221px;
+  left: 351px;
+  position: absolute;
+  top: 0;
+  object-fit: cover;
+}
+
+.desktop .grille-2 {
+  width: 355px;
+  height: 221px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  object-fit: cover;
+}
+
+.desktop .txtblablaland {
+  position: absolute;
+  top: 67px;
+  left: 785px;
+  font-family: "Oswald", Helvetica;
+  font-weight: 400;
+  color: #868686;
+  font-size: 13px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.desktop .text9 {
+  position: absolute;
+  top: 30px;
+  left: 787px;
+  font-family: "Oswald", Helvetica;
+  font-weight: 400;
+  color: #868686;
+  font-size: 18px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.desktop .txtderniercommentaire {
+  position: absolute;
+  top: 100px;
+  left: 529px;
+  font-family: "Droid Sans-Regular", Helvetica;
+  font-weight: 400;
+  color: #868686;
+  font-size: 13px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.desktop .text10 {
+  position: absolute;
+  top: 83px;
+  left: 529px;
+  font-family: "Droid Sans-Bold", Helvetica;
+  font-weight: 700;
+  color: #868686;
+  font-size: 13px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.desktop .text11 {
+  position: absolute;
+  width: 92px;
+  top: 62px;
+  left: 529px;
+  font-family: "Inter", Helvetica;
+  font-weight: 600;
+  color: #a9a9a9;
+  font-size: 11px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.desktop .text12 {
+  left: 529px;
+  position: absolute;
+  top: 30px;
+  font-family: "Oswald", Helvetica;
+  font-weight: 400;
+  color: #868686;
+  font-size: 18px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.desktop .text13 {
+  top: 153px;
+  left: 299px;
+  font-family: "Droid Sans-Regular", Helvetica;
+  font-weight: 400;
+  color: #868686;
+  font-size: 13px;
+  white-space: nowrap;
+  position: absolute;
+  letter-spacing: 0;
+  line-height: normal;
+  text-decoration: underline;
+}
+
+.desktop .txtdernierbillet {
+  position: absolute;
+  top: 100px;
+  left: 299px;
+  font-family: "Droid Sans-Regular", Helvetica;
+  font-weight: 400;
+  color: #868686;
+  font-size: 13px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.desktop .text14 {
+  position: absolute;
+  top: 83px;
+  left: 299px;
+  font-family: "Droid Sans-Bold", Helvetica;
+  font-weight: 700;
+  color: #868686;
+  font-size: 13px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.desktop .text15 {
+  top: 62px;
+  left: 299px;
+  font-family: "Inter", Helvetica;
+  font-weight: 600;
+  font-style: italic;
+  color: #a9a9a9;
+  font-size: 11px;
+  white-space: nowrap;
+  position: absolute;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.desktop .text16 {
+  left: 299px;
+  position: absolute;
+  top: 30px;
+  font-family: "Oswald", Helvetica;
+  font-weight: 400;
+  color: #868686;
+  font-size: 18px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.desktop .text17 {
+  position: absolute;
+  top: 145px;
+  left: 73px;
+  font-family: "Droid Sans-Regular", Helvetica;
+  font-weight: 400;
+  color: #868686;
+  font-size: 13px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+  text-decoration: underline;
+}
+
+.desktop .aide-icone {
+  position: absolute;
+  width: 31px;
+  height: 26px;
+  top: 145px;
+  left: 47px;
+  object-fit: cover;
+}
+
+.desktop .text18 {
+  position: absolute;
+  top: 125px;
+  left: 73px;
+  font-family: "Droid Sans-Regular", Helvetica;
+  font-weight: 400;
+  color: #868686;
+  font-size: 13px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+  text-decoration: underline;
+}
+
+.desktop .mail-icone {
+  position: absolute;
+  width: 31px;
+  height: 26px;
+  top: 126px;
+  left: 47px;
+  object-fit: cover;
+}
+
+.desktop .p {
+  position: absolute;
+  top: 105px;
+  left: 73px;
+  font-family: "Droid Sans-Regular", Helvetica;
+  font-weight: 400;
+  color: #868686;
+  font-size: 13px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.desktop .telephone-icone {
+  position: absolute;
+  width: 31px;
+  height: 26px;
+  top: 105px;
+  left: 47px;
+  object-fit: cover;
+}
+
+.desktop .adresse {
+  top: 67px;
+  left: 73px;
+  font-family: "Droid Sans-Regular", Helvetica;
+  font-weight: 400;
+  color: #868686;
+  font-size: 13px;
+  position: absolute;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.desktop .accueil-icone {
+  position: absolute;
+  width: 31px;
+  height: 26px;
+  top: 70px;
+  left: 47px;
+  object-fit: cover;
+}
+
+.desktop .text19 {
+  position: absolute;
+  top: 30px;
+  left: 72px;
+  font-family: "Oswald", Helvetica;
+  font-weight: 400;
+  color: #868686;
+  font-size: 18px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.desktop .line {
+  position: absolute;
+  width: 983px;
+  height: 1px;
+  top: 1620px;
+  left: 228px;
+  object-fit: cover;
+}
+
+.desktop .line-2 {
+  position: absolute;
+  width: 983px;
+  height: 1px;
+  top: 1372px;
+  left: 228px;
+  object-fit: cover;
+}
+
+.desktop .accr1 {
+  position: absolute;
+  width: 119px;
+  height: 82px;
+  top: 1246px;
+  left: 1048px;
+  background-color: #ffffff;
+  border: 1px solid;
+  border-color: #d9d9d9;
+}
+
+.desktop .accrobranche {
+  position: absolute;
+  width: 104px;
+  height: 66px;
+  top: 7px;
+  left: 7px;
+  object-fit: cover;
+}
+
+.desktop .accr2 {
+  position: absolute;
+  width: 119px;
+  height: 82px;
+  top: 1246px;
+  left: 911px;
+  background-color: #ffffff;
+  border: 1px solid;
+  border-color: #d9d9d9;
+}
+
+.desktop .accr3 {
+  position: absolute;
+  width: 119px;
+  height: 82px;
+  top: 1246px;
+  left: 774px;
+  background-color: #ffffff;
+  border: 1px solid;
+  border-color: #d9d9d9;
+}
+
+.desktop .accr4 {
+  position: absolute;
+  width: 119px;
+  height: 82px;
+  top: 1145px;
+  left: 1048px;
+  background-color: #ffffff;
+  border: 1px solid;
+  border-color: #d9d9d9;
+}
+
+.desktop .accr5 {
+  position: absolute;
+  width: 119px;
+  height: 82px;
+  top: 1145px;
+  left: 911px;
+  background-color: #ffffff;
+  border: 1px solid;
+  border-color: #d9d9d9;
+}
+
+.desktop .accr6 {
+  position: absolute;
+  width: 119px;
+  height: 82px;
+  top: 1145px;
+  left: 774px;
+  background-color: #ffffff;
+  border: 1px solid;
+  border-color: #d9d9d9;
+}
+
+.desktop .text20 {
+  position: absolute;
+  top: 1094px;
+  left: 774px;
+  font-family: "Inter", Helvetica;
+  font-weight: 600;
+  font-style: italic;
+  color: #a8a8a8cc;
+  font-size: 11px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.desktop .txtcommentaire {
+  position: absolute;
+  top: 1052px;
+  left: 774px;
+  font-family: "Droid Sans-Regular", Helvetica;
+  font-weight: 400;
+  color: #868686;
+  font-size: 12px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.desktop .text21 {
+  position: absolute;
+  top: 1028px;
+  left: 774px;
+  font-family: "Inter", Helvetica;
+  font-weight: 600;
+  font-style: italic;
+  color: #a8a8a8cc;
+  font-size: 11px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.desktop .text22 {
+  position: absolute;
+  top: 997px;
+  left: 774px;
+  font-family: "Oswald", Helvetica;
+  font-weight: 500;
+  color: #f68807;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.desktop .text23 {
+  top: 1322px;
+  left: 533px;
+  position: absolute;
+  font-family: "Inter", Helvetica;
+  font-weight: 600;
+  font-style: italic;
+  color: #a8a8a8cc;
+  font-size: 11px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.desktop .txtfastfoods {
+  position: absolute;
+  top: 1255px;
+  left: 533px;
+  font-family: "Droid Sans-Regular", Helvetica;
+  font-weight: 400;
+  color: #868686;
+  font-size: 12px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.desktop .text24 {
+  position: absolute;
+  top: 1231px;
+  left: 533px;
+  font-family: "Inter", Helvetica;
+  font-weight: 600;
+  font-style: italic;
+  color: #a8a8a8cc;
+  font-size: 11px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.desktop .text25 {
+  position: absolute;
+  top: 1201px;
+  left: 533px;
+  font-family: "Oswald", Helvetica;
+  font-weight: 500;
+  color: #f68807;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.desktop .text26 {
+  top: 1167px;
+  left: 533px;
+  position: absolute;
+  font-family: "Inter", Helvetica;
+  font-weight: 600;
+  font-style: italic;
+  color: #a8a8a8cc;
+  font-size: 11px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.desktop .overlap-5 {
+  position: absolute;
+  width: 145px;
+  height: 81px;
+  top: 1027px;
+  left: 533px;
+}
+
+.desktop .txtaccrobranche {
+  position: absolute;
+  width: 145px;
+  top: 0;
+  left: 0;
+  font-family: "Droid Sans-Regular", Helvetica;
+  font-weight: 400;
+  color: #868686;
+  font-size: 12px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.desktop .text27 {
+  position: absolute;
+  top: 1px;
+  left: 0;
+  font-family: "Inter", Helvetica;
+  font-weight: 600;
+  font-style: italic;
+  color: #a8a8a8cc;
+  font-size: 11px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.desktop .text28 {
+  top: 997px;
+  left: 533px;
+  font-family: "Oswald", Helvetica;
+  font-weight: 500;
+  color: #f68807;
+  font-size: 20px;
+  position: absolute;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.desktop .overlap-6 {
+  position: absolute;
+  width: 239px;
+  height: 306px;
+  top: 967px;
+  left: 248px;
+  background-color: #ffffff;
+  border: 1px solid;
+  border-color: #d9d9d9;
+}
+
+.desktop .text29 {
+  top: 263px;
+  left: 13px;
+  position: absolute;
+  font-family: "Inter", Helvetica;
+  font-weight: 600;
+  font-style: italic;
+  color: #a8a8a8cc;
+  font-size: 11px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.desktop .txtgolf {
+  position: absolute;
+  top: 195px;
+  left: 13px;
+  font-family: "Droid Sans-Regular", Helvetica;
+  font-weight: 400;
+  color: #858585;
+  font-size: 12px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.desktop .golfimg {
+  position: absolute;
+  width: 123px;
+  height: 115px;
+  top: 65px;
+  left: 43px;
+  object-fit: cover;
+}
+
+.desktop .text30 {
+  position: absolute;
+  top: 49px;
+  left: 13px;
+  font-family: "Inter", Helvetica;
+  font-weight: 600;
+  font-style: italic;
+  color: #a8a8a8cc;
+  font-size: 11px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.desktop .text31 {
+  position: absolute;
+  top: 16px;
+  left: 13px;
+  font-family: "Oswald", Helvetica;
+  font-weight: 500;
+  color: #f68807;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.desktop .overlap-7 {
+  position: absolute;
+  width: 970px;
+  height: 148px;
+  top: 777px;
+  left: 238px;
+}
+
+.desktop .grille-3 {
+  width: 259px;
+  height: 148px;
+  left: 711px;
+  position: absolute;
+  top: 0;
+  object-fit: cover;
+}
+
+.desktop .grille-4 {
+  width: 259px;
+  height: 148px;
+  left: 452px;
+  position: absolute;
+  top: 0;
+  object-fit: cover;
+}
+
+.desktop .grille-5 {
+  width: 259px;
+  height: 148px;
+  left: 254px;
+  position: absolute;
+  top: 0;
+  object-fit: cover;
+}
+
+.desktop .grille-6 {
+  width: 259px;
+  height: 148px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  object-fit: cover;
+}
+
+.desktop .text32 {
+  position: absolute;
+  width: 896px;
+  top: 57px;
+  left: 48px;
+  font-family: "Inter", Helvetica;
+  font-weight: 600;
+  font-style: italic;
+  color: #868686;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.desktop .line-3 {
+  position: absolute;
+  width: 983px;
+  height: 1px;
+  top: 933px;
+  left: 228px;
+  object-fit: cover;
+}
+
+.desktop .line-4 {
+  position: absolute;
+  width: 983px;
+  height: 1px;
+  top: 767px;
+  left: 228px;
+  object-fit: cover;
+}
+
+.desktop .YTB {
+  position: absolute;
+  width: 696px;
+  height: 382px;
+  top: 311px;
+  left: 372px;
+  object-fit: cover;
+}
+
+.desktop .line-5 {
+  position: absolute;
+  width: 983px;
+  height: 1px;
+  top: 266px;
+  left: 228px;
+  object-fit: cover;
+}
+
+.desktop .overlap-group-2 {
+  position: absolute;
+  width: 1052px;
+  height: 185px;
+  top: 64px;
+  left: 207px;
+}
+
+.desktop .grille-7 {
+  width: 355px;
+  height: 185px;
+  left: 697px;
+  position: absolute;
+  top: 0;
+  object-fit: cover;
+}
+
+.desktop .grille-8 {
+  width: 355px;
+  height: 185px;
+  left: 348px;
+  position: absolute;
+  top: 0;
+  object-fit: cover;
+}
+
+.desktop .grille-9 {
+  width: 355px;
+  height: 185px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  object-fit: cover;
+}
+
+.desktop .line-6 {
+  position: absolute;
+  width: 121px;
+  height: 5px;
+  top: 58px;
+  left: 883px;
+}
+
+.desktop .line-7 {
+  position: absolute;
+  width: 122px;
+  height: 4px;
+  top: 59px;
+  left: 714px;
+}
+
+.desktop .line-8 {
+  position: absolute;
+  width: 116px;
+  height: 4px;
+  top: 60px;
+  left: 551px;
+}
+
+.desktop .line-9 {
+  position: absolute;
+  width: 154px;
+  height: 5px;
+  top: 59px;
+  left: 372px;
+}
+
+.desktop .line-10 {
+  position: absolute;
+  width: 95px;
+  height: 4px;
+  top: 60px;
+  left: 258px;
+}
+
+.desktop .text33 {
+  position: absolute;
+  top: 138px;
+  left: 890px;
+  font-family: "Droid Sans-Regular", Helvetica;
+  font-weight: 400;
+  color: #868686;
+  font-size: 12px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.desktop .text34 {
+  position: absolute;
+  top: 105px;
+  left: 890px;
+  font-family: "Droid Sans-Regular", Helvetica;
+  font-weight: 400;
+  color: #868686;
+  font-size: 12px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.desktop .text35 {
+  position: absolute;
+  top: 76px;
+  left: 890px;
+  font-family: "Droid Sans-Regular", Helvetica;
+  font-weight: 400;
+  color: #868686;
+  font-size: 12px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.desktop .text36 {
+  position: absolute;
+  top: 138px;
+  left: 722px;
+  font-family: "Droid Sans-Regular", Helvetica;
+  font-weight: 400;
+  color: #868686;
+  font-size: 12px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.desktop .text37 {
+  position: absolute;
+  top: 105px;
+  left: 722px;
+  font-family: "Droid Sans-Regular", Helvetica;
+  font-weight: 400;
+  color: #868686;
+  font-size: 12px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.desktop .text38 {
+  top: 76px;
+  left: 722px;
+  font-family: "Droid Sans-Regular", Helvetica;
+  font-weight: 400;
+  color: #868686;
+  font-size: 12px;
+  white-space: nowrap;
+  position: absolute;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.desktop .text39 {
+  position: absolute;
+  top: 138px;
+  left: 556px;
+  font-family: "Droid Sans-Regular", Helvetica;
+  font-weight: 400;
+  color: #868686;
+  font-size: 12px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.desktop .text40 {
+  position: absolute;
+  top: 105px;
+  left: 556px;
+  font-family: "Droid Sans-Regular", Helvetica;
+  font-weight: 400;
+  color: #868686;
+  font-size: 12px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.desktop .text41 {
+  position: absolute;
+  top: 76px;
+  left: 556px;
+  font-family: "Droid Sans-Regular", Helvetica;
+  font-weight: 400;
+  color: #868686;
+  font-size: 12px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.desktop .text42 {
+  position: absolute;
+  top: 138px;
+  left: 379px;
+  font-family: "Droid Sans-Regular", Helvetica;
+  font-weight: 400;
+  color: #868686;
+  font-size: 12px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.desktop .text43 {
+  position: absolute;
+  top: 105px;
+  left: 379px;
+  font-family: "Droid Sans-Regular", Helvetica;
+  font-weight: 400;
+  color: #868686;
+  font-size: 12px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.desktop .text44 {
+  position: absolute;
+  top: 76px;
+  left: 379px;
+  font-family: "Droid Sans-Regular", Helvetica;
+  font-weight: 400;
+  color: #868686;
+  font-size: 12px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.desktop .text45 {
+  position: absolute;
+  top: 138px;
+  left: 260px;
+  font-family: "Droid Sans-Regular", Helvetica;
+  font-weight: 400;
+  color: #868686;
+  font-size: 12px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.desktop .text46 {
+  position: absolute;
+  top: 105px;
+  left: 260px;
+  font-family: "Droid Sans-Regular", Helvetica;
+  font-weight: 400;
+  color: #868686;
+  font-size: 12px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.desktop .text47 {
+  position: absolute;
+  top: 76px;
+  left: 260px;
+  font-family: "Droid Sans-Regular", Helvetica;
+  font-weight: 400;
+  color: #868686;
+  font-size: 12px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.desktop .text48 {
+  position: absolute;
+  top: 25px;
+  left: 890px;
+  font-family: "Oswald", Helvetica;
+  font-weight: 400;
+  color: #868686;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.desktop .text49 {
+  position: absolute;
+  top: 25px;
+  left: 722px;
+  font-family: "Oswald", Helvetica;
+  font-weight: 400;
+  color: #868686;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.desktop .text50 {
+  position: absolute;
+  top: 25px;
+  left: 556px;
+  font-family: "Oswald", Helvetica;
+  font-weight: 400;
+  color: #868686;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.desktop .text51 {
+  position: absolute;
+  top: 25px;
+  left: 386px;
+  font-family: "Oswald", Helvetica;
+  font-weight: 400;
+  color: #868686;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.desktop .text52 {
+  position: absolute;
+  top: 25px;
+  left: 262px;
+  font-family: "Oswald", Helvetica;
+  font-weight: 400;
+  color: #868686;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.desktop .logo {
+  position: absolute;
+  width: 178px;
+  height: 100px;
+  top: 43px;
+  left: 16px;
+  object-fit: cover;
+}
